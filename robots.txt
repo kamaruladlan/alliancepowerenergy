@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kamaruladlan.github.io/alliancepower-energy/sitemap.xml
